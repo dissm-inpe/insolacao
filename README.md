@@ -3,6 +3,8 @@ Código para o cáculo da insolação diária baseado em Ceballos et al., 2008.
 
 
 Input: Refletância VIS GOES (S11167029_YYYYMMDDHHMM.ref)
+
+
 Output: S11167051_YYYYMMDD0000.bin/ S11167051_YYYYMMDD0000.nc
 
 
